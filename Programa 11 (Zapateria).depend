@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423811739 source:c:\users\luis\dropbox\comparti2\inco\programación\programa 11 (zapateria)\main.cpp
+	<windows.h>
+	<iostream>
+	<string>
+
